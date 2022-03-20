@@ -1,13 +1,10 @@
-Ciao 👋, I'm Francesco but u can call me Ciccio
+Hi 👋, I'm Francesco but you can call me Ciccio
 
-<
 
-🌱 I’m currently learning Solidity, Java, Go
+🌱 I’m currently learning C++, Python
 
-👨‍💻 All of my projects are available here
+👨‍💻 I'm Computer Science Student of University Of Catania 
 
 📫 How to reach me francesco.virzi13@gmail.com
 
 
-
->
