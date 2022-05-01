@@ -15,7 +15,7 @@ Hi 👋, I'm Francesco but you can call me Ciccio
       <img src="https://cdn.pixabay.com/photo/2020/07/02/16/37/tik-tok-5363583_960_720.png" alt="example"/ height="28px" width="28px">
   </a>	
   <a href="mailto:francesco.virzi13@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+    <img src="https://1000marche.net/wp-content/uploads/2020/03/Gmail-logo.png"  alt="example"height="28px" width="48px"/>
   </a>
 
   </p>
