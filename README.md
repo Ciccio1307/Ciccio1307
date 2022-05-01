@@ -20,8 +20,8 @@ Hi 👋, I'm Francesco but you can call me Ciccio
 
   </p>
 
-
-### Languages and Tools
+<center>
+  <h2> Languages and Tools</h2>
 
 <table>
     <tbody>
@@ -85,7 +85,7 @@ Hi 👋, I'm Francesco but you can call me Ciccio
         </tr>
     </tbody>
 </table>
-
+</center>
 <br><br>
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
