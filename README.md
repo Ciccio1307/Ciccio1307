@@ -1,7 +1,7 @@
 Hi 👋, I'm Francesco but you can call me Ciccio
 
 
-🌱 I’m currently learning C++, Python
+🌱 I’m currently learning C++, Python and Framework Js
 
 👨‍💻 I'm Computer Science Student of University Of Catania 
 
