@@ -21,6 +21,10 @@ Hi 👋, I'm Francesco but you can call me Ciccio
   </p>
 
 <center>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+  
   <h2> Languages and Tools</h2>
 
 <table>
