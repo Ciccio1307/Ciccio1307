@@ -22,7 +22,7 @@ Hi 👋, I'm Francesco but you can call me Ciccio
 
 <center>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ciccio1307&show_icons=true&theme=radical)
 
   
   <h2> Languages and Tools</h2>
