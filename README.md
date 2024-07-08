@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LLM RAG Chatbot With LangChain**
 
-- 🌱 I’m currently learning **LangChain Framework**
+- 🦜🔗 I’m currently learning **LangChain Framework**
 
 - 📫 How to reach me **francesco.virzi13@gmail.com**
 
