@@ -82,13 +82,7 @@
 
 ---
 
-<h3 align="left">🔥 My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francesco-virzi&show_icons=true&theme=radical" alt="Francesco's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francesco-virzi&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
 
----
 
 <p align="center">
   <i>Empowering solutions with code every day! 🌟</i>
