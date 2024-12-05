@@ -26,6 +26,11 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <!-- Core Skills -->
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a> 
+  
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
@@ -36,10 +41,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+    <img src="https://automationpanda.com/wp-content/uploads/2017/09/django-logo-negative.png?w=620" width="70" height="40"/>
   </a>
   <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="40" height="40"/>
@@ -47,9 +52,7 @@
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
   </a>
-  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/servlets/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="HTTP Servlet (J2EE)" width="40" height="40"/>
-  </a>
+ 
 
   <!-- AI and Data Tools -->
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
@@ -59,13 +62,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
   </a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/scipy/scipy-icon.svg" alt="Scipy" width="40" height="40"/>
+    <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" alt="Scipy" width="40" height="40"/>
   </a>
 
   <!-- Additional Skills -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
   </a>
