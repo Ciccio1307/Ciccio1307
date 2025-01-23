@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/badge/Currently_Learning-LangChain-yellow?style=for-the-badge" alt="Learning: LangChain"/>
 </p>
 
-- 🔭 I’m currently working on **LLM RAG Chatbot With LangChain**
+- 🦜🔗 I’m exploring the LangChain Framework for cutting-edge AI solutions.
 
-- 🦜🔗 I’m exploring **LangChain Framework** for cutting-edge AI solutions.
+- 📚 I’m also learning the Laravel and Spring Boot frameworks while exploring innovative back-end solutions.
 
 - 📫 How to reach me: **francesco.virzi13@gmail.com**
 
