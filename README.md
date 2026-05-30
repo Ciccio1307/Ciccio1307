@@ -88,7 +88,3 @@
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
 </p>
-
-<p align="center">
-  <i>Empowering solutions with code every day! 🌟</i>
-</p>
