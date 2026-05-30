@@ -76,14 +76,6 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
 </p>
 
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ciccio1307&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Francesco's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciccio1307&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
